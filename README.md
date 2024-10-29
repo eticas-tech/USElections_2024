@@ -4,4 +4,4 @@ Four questions, six LLMs, seven swing states, and over 300 data entries. How wel
 
 We also noticed that there isn’t a single infallible LLM that consistently avoids errors. On top of that, even with efforts by Big Tech to decrease misinformation, LLMs still act unpredictably, sometimes providing answers even when they were instructed not to. Hallucinations, falsehoods, and echo chambers of misinformation are deeply embedded in these systems, which is why we urgently need better accountability mechanisms.
 
-The present repository contains the LLMs answers, the statistical tests and the main outputs of the reports. Additionally, the complete version of the report is added to the repository. 
+The present repository contains the LLMs answers, the statistical tests and the main outputs of the report. Additionally, the complete version of the report is included in the repository. 
